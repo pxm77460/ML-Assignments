@@ -1,6 +1,4 @@
-# Machine Learning Assignments
-## Table of Contents
-- ML Assignment 1
+# ML Assignment 1
 ## Student Details:
 ### Student Id: 700747746
 ### Name: Pavankalyan Magam
