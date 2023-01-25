@@ -16,7 +16,7 @@ Implemented KNN Classifier Algorithm and also calculated Accuracy, Sensitivity a
 
 ## Document
 Document Describing about Assignment 1  
-[Document](https://docs.google.com/document/d/1LhiUU0Un7m6criaoQ8GxckeR0Mwe8D5D/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/1g33Az3oROcXN2gybnite6gLC6xUVTmvX/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
 
 ## Video
 Video on demonstration of the Assignment 1  
