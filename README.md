@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 ## Table of Contents
-- ML Assignment 1
+- [ML Assignment 1](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code)
 ## Student Details:
 ### Student Id: 700747746
 ### Name: Pavankalyan Magam
