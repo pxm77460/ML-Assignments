@@ -6,7 +6,8 @@
 ### University Of Central Missouri
 
 
-## Short Description: 
+## Short Description:  
+In Machine Learning Assignment 2 implemented the following,  
 1.Star Pattern: The program will use a for loop to generate a star pattern. The exact pattern to be displayed will depend on the specific implementation of the code.
 
 2.Odd Index Elements: Given a list of elements, the program will use looping to extract elements that are present at odd indices. These elements will then be displayed as the output.
