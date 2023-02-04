@@ -18,9 +18,9 @@
 5.Character Count: The program will accept a string as input and calculate the number of upper-case and lower-case letters in the string. The number of upper-case and lower-case letters will be displayed as the output.
 
 ## Document
-Document Describing about Assignment 1  
+Document Describing about Assignment 2 
 [Document](https://docs.google.com/document/d/16W-gXJpWoaUDFtNA9LsTQxfjwCdKfB4G/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
 
 ## Video
-Video on demonstration of the Assignment 1  
+Video on demonstration of the Assignment 2 
 [Video](https://drive.google.com/file/d/1A9l5rBI1UvhuM9FK3vlC4fMxzewsoYO1/view?usp=share_link)
