@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 ## Table of Contents
-- [ML Assignment 1](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code)
+- [ML Assignment 1](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%201)
 - [ML Assignment 2](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%202)
 ## Student Details:
 ### Student Id: 700747746
