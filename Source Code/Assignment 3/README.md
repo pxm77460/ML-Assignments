@@ -36,9 +36,9 @@ a. Write a Python programming to create a below chart of the popularity of progr
 In this question, we use the matplotlib library to create a chart that displays the popularity of programming languages. The chart is created using the pie method from pyplot, and the labels and percentages are added using the label and autopct arguments respectively. The explode argument is used to separate a section of the chart.
 
 ## Document
-Document Describing about Assignment 2  
-[Document](https://docs.google.com/document/d/16W-gXJpWoaUDFtNA9LsTQxfjwCdKfB4G/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
+Document Describing about Assignment 3  
+[Document](https://docs.google.com/document/d/1HEHGPDE2-NzbpvK0BHM8wLgHGATjIA7C/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
 
 ## Video
-Video on demonstration of the Assignment 2  
-[Video](https://drive.google.com/file/d/1A9l5rBI1UvhuM9FK3vlC4fMxzewsoYO1/view?usp=share_link)
+Video on demonstration of the Assignment 3  
+[Video](https://drive.google.com/file/d/1BMIWG473klMwv26-bLWGhI8aI-bNOqnh/view?usp=share_link)
