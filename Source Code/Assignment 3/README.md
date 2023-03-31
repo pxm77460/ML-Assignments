@@ -7,7 +7,7 @@
 
 
 ## Short Description:  
-1. Numpy:
+### 1. Numpy:
 a. Using NumPy create random vector of size 15 having only Integers in the range 1-20.
 
 In this question, we use the numpy library to create a random vector of size 15 with integer elements in the range of 1 to 20. The random integers are generated using the randint method from numpy.
@@ -30,7 +30,7 @@ g. Write a NumPy program to create a new shape to an array without changing its 
 
 In this question, we use the reshape method from numpy to reshape an existing array to a new shape without changing its data.
 
-2. Matplotlib:
+### 2. Matplotlib:
 a. Write a Python programming to create a below chart of the popularity of programming Languages.
 
 In this question, we use the matplotlib library to create a chart that displays the popularity of programming languages. The chart is created using the pie method from pyplot, and the labels and percentages are added using the label and autopct arguments respectively. The explode argument is used to separate a section of the chart.
