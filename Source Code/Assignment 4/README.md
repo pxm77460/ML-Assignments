@@ -9,9 +9,9 @@
 
 ## Short Description:  
 ### 1. Pandas:
+### 2.  Scikit library:  
 
-
-### 2.  Scikit library:
+In this assignment, various operations were performed on datasets using the pandas library, such as reading csv files, basic statistical description, filtering, aggregating data, creating scatter plots, and modifying dataframes. Additionally, the Titanic dataset was used to find correlations between features, and Naive Bayes was implemented for prediction with scikit-learn. Furthermore, the Glass dataset was used to implement Naive Bayes and SVM algorithms, and visualizations were used to show correlations between features. Naive Bayes performed better than SVM, and this may be attributed to the dataset's characteristics, which have few features and weak dependencies between them.
 
 ## Document
 Document Describing about Assignment 3  
