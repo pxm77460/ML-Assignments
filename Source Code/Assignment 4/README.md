@@ -21,8 +21,8 @@ In the second section, the Titanic dataset was used to explore the correlation b
 In the third section, the glass dataset was used to explore the correlation between different features of the data and visualizations were created to represent these correlations. Naive Bayes and SVM algorithms were implemented to classify the glass samples into different classes, with Naive Bayes outperforming SVM in terms of accuracy.
 ## Document
 Document Describing about Assignment 4  
-[Document](https://docs.google.com/document/d/1HEHGPDE2-NzbpvK0BHM8wLgHGATjIA7C/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/13C3UwS6SBBKRQt6gq_ZnOkTsWc25oL4w/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
 
 ## Video
 Video on demonstration of the Assignment 4  
-[Video](https://drive.google.com/file/d/1BMIWG473klMwv26-bLWGhI8aI-bNOqnh/view?usp=share_link)
+[Video](https://drive.google.com/file/d/1CkYm8k5B-7qwbUPpSbakXFGj3UsT2gdY/view?usp=share_link)
