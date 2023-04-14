@@ -7,7 +7,7 @@
 
 
 ## Short Description:  
-### 1. Pandas:  
+### 1. Clustering & Dimensionality reduction:  
  
 
 
@@ -20,12 +20,12 @@
 
 
 ## Document
-Document Describing about Assignment 4  
-[Document](https://docs.google.com/document/d/13C3UwS6SBBKRQt6gq_ZnOkTsWc25oL4w/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
+Document Describing about Assignment 5  
+[Document](https://docs.google.com/document/d/135_OAlGQIxRSkg2-Ibgtg3wArZF4YG-L/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
 
 
 ## Video
-Video on demonstration of the Assignment 4  
-[Video](https://drive.google.com/file/d/1CkYm8k5B-7qwbUPpSbakXFGj3UsT2gdY/view?usp=share_link)
+Video on demonstration of the Assignment 5  
+[Video](https://drive.google.com/file/d/1_HOIA60u49WxeQGzBPYU54Ndyw0b0vaI/view?usp=share_link)
 
 
