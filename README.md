@@ -4,7 +4,7 @@
 - [ML Assignment 2](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%202)
 - [ML Assignment 3](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%203)
 - [ML Assignment 4](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%204)
-- [ML Assignment 3](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%205)
+- [ML Assignment 5](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%205)
 ## Student Details:
 ### Student Id: 700747746
 ### Name: Pavankalyan Magam
