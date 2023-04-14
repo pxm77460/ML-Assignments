@@ -3,6 +3,8 @@
 - [ML Assignment 1](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%201)
 - [ML Assignment 2](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%202)
 - [ML Assignment 3](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%203)
+- [ML Assignment 4](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%204)
+- [ML Assignment 3](https://github.com/pxm77460/ML-Assignments/tree/main/Source%20Code/Assignment%205)
 ## Student Details:
 ### Student Id: 700747746
 ### Name: Pavankalyan Magam
@@ -98,5 +100,68 @@ Document Describing about Assignment 3
 
 ## Video
 Video on demonstration of the Assignment 3  
-[Video](https://drive.google.com/file/d/1BMIWG473klMwv26-bLWGhI8aI-bNOqnh/view?usp=share_link)
+[Video](https://drive.google.com/file/d/1BMIWG473klMwv26-bLWGhI8aI-bNOqnh/view?usp=share_link)  
+
+# ML Assignment 4
+## Student Details:
+### Student Id: 700747746
+### Name: Pavankalyan Magam
+### CRN: 23921
+### University Of Central Missouri
+
+
+## Short Description:  
+### 1. Pandas:  
+ 
+
+In this assignment, various concepts of data analysis and machine learning have been explored using the pandas and scikit-learn libraries. The assignment covered a range of topics including data preprocessing, visualization, and modeling.
+
+In the first section, pandas library was used to read a CSV file, perform statistical analysis on the data, check for null values, and filter data based on certain conditions. Visualizations such as scatter plots were also created to show correlations between different features of the data.
+
+In the second section, the Titanic dataset was used to explore the correlation between the target column (survived) and the sex column using correlation coefficients and visualizations. Naive Bayes was then implemented to predict survival based on various features of the data, achieving a high accuracy rate.
+
+### 2.  Scikit library:  
+In the third section, the glass dataset was used to explore the correlation between different features of the data and visualizations were created to represent these correlations. Naive Bayes and SVM algorithms were implemented to classify the glass samples into different classes, with Naive Bayes outperforming SVM in terms of accuracy.
+## Document
+Document Describing about Assignment 4  
+[Document](https://docs.google.com/document/d/13C3UwS6SBBKRQt6gq_ZnOkTsWc25oL4w/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
+
+
+## Video
+Video on demonstration of the Assignment 4  
+[Video](https://drive.google.com/file/d/1CkYm8k5B-7qwbUPpSbakXFGj3UsT2gdY/view?usp=share_link)
+
+
+
+# ML Assignment 5
+## Student Details:
+### Student Id: 700747746
+### Name: Pavankalyan Magam
+### CRN: 23921
+### University Of Central Missouri
+
+
+## Short Description:  
+### 1. Clustering & Dimensionality reduction:  
+ 
+
+
+1.Principal Component Analysis (PCA) is a technique used to reduce the dimensionality of a dataset by identifying the most important variables and creating new variables that capture the most variability in the data.  
+2.In the CC dataset, PCA was performed and k-means clustering was applied on the PCA result. The silhouette score improved after applying PCA.  
+3.Scaling, PCA, and k-means were performed on the CC dataset, resulting in a silhouette score of 38%.  
+4.The pd_speech_features.csv dataset was used, and scaling and PCA (k=3) were performed. SVM was used to report performance.  
+5.Linear Discriminant Analysis (LDA) was applied on the Iris.csv dataset to reduce the dimensionality of data to k=2.  
+6.PCA and LDA are both dimensionality reduction techniques, but PCA is unsupervised and aims to maximize variance, while LDA is supervised and aims to maximize the separation between classes.  
+
+
+## Document
+Document Describing about Assignment 5  
+[Document](https://docs.google.com/document/d/135_OAlGQIxRSkg2-Ibgtg3wArZF4YG-L/edit?usp=share_link&ouid=116297738906248482727&rtpof=true&sd=true)
+
+
+## Video
+Video on demonstration of the Assignment 5  
+[Video](https://drive.google.com/file/d/1_HOIA60u49WxeQGzBPYU54Ndyw0b0vaI/view?usp=share_link)
+
+
 
